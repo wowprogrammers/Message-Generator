@@ -1,0 +1,1 @@
+console.log("Welcome to Codecademy Mixed Messages Project");
